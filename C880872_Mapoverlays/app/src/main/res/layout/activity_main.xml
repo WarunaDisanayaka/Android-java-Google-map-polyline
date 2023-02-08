@@ -22,18 +22,6 @@
         android:background="@android:color/white"
         tools:ignore="MissingConstraints">
 
-        <CheckBox
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/check_box"
-            android:text="Fill Polygon"/>
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Polygon Color"
-        android:textStyle="bold"
-        android:layout_marginTop="10dp"/>
 
     </LinearLayout>
 
